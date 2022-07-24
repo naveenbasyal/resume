@@ -279,7 +279,7 @@ html{
         /* overflow: hidden; */
     }
     .main_container{
-        width: 100%;
+        width: 108%;
     }
     .education .row{
         flex-direction: column;
@@ -294,7 +294,7 @@ html{
         padding: 0.3rem;
     }
     .lr {
-        height: 117.7vh;
+        height: 124.7vh;
     }
     .lr img{
         width: 90%;
@@ -356,6 +356,6 @@ html{
     }
     .column {
         width: 50%;
-        height: 124vh;
+        height: 130vh;
     }
 }
